@@ -1,0 +1,8 @@
+[{
+    "title": "Cool news item title!",
+    "image": "smile",
+    "note": "Key speaker notes here"
+}, {
+    "type": "dcSpark",
+    "title": "2nd cool news item title!"
+}]

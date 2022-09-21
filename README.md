@@ -12,7 +12,7 @@ This project makes it easy to manage a list of points to cover while streaming
 
 # How to use
 
-Look at an example in [./shows/example]
+Look at an example in [./src/shows/example](./src/shows/example)
 
 1. Create a new folder in the `shows` directory for a new stream you want to do
 1. Create a JSON file and images in this folder that has all the points you want to cover

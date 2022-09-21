@@ -2,6 +2,8 @@
 
 This project makes it easy to manage a list of points to cover while streaming
 
+![image](https://user-images.githubusercontent.com/2608559/191397787-035c004b-055e-421d-84c8-ebd3780bc98e.png)
+
 ## Features
 
 - Dynamically create a list of topics using a json file

@@ -20,3 +20,10 @@ Look at an example in [./src/shows/example](./src/shows/example)
 1. Launch the application (`yarn tauri dev`)
 1. Set up OBS to to record part of the application using the Chroma Key filter to get transparency
 1. Use up & down arrows to change between news items
+
+# Other assets
+
+In the [public](./public/) folder, you can find:
+
+- Background to use for OBS
+- Thumbnail template to use for Youtube

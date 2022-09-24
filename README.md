@@ -27,3 +27,40 @@ In the [public](./public/) folder, you can find:
 
 - Background to use for OBS
 - Thumbnail template to use for Youtube
+
+# Useful links
+
+Here are some useful links for dcSpark's weekly update
+
+# Weekly review URLs
+
+### Online editors
+
+- https://pandao.github.io/editor.md/en.html
+
+### Medium
+
+- https://medium.com/@milkomedafoundation
+- https://medium.com/dcspark
+- https://medium.com/dcspark%E6%97%A5%E6%9C%AC/
+- https://medium.com/@Paima_Studios
+
+### Twitter
+
+- https://twitter.com/Milkomeda_com/
+- https://twitter.com/FlintWallet
+- https://twitter.com/dcspark_io
+- https://twitter.com/dcspark_jp
+- https://twitter.com/SebastienGllmt
+- https://twitter.com/NicoArqueros
+
+### Github
+
+- https://github.com/orgs/dcSpark/repositories?type=all
+- https://github.com/PaimaStudios?type=all
+
+### Partners
+
+- https://twitter.com/algorand
+- https://twitter.com/cardano
+- https://twitter.com/PaimaStudios

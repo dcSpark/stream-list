@@ -49,12 +49,14 @@ function IndexedList(props: { itemList: JsonListItem[]; showInfo: string }) {
       setCurrentItem((oldVal) =>
         oldVal > minCurrentItem ? oldVal - 1 : oldVal
       );
+      event.preventDefault();
     }
 
     if (event.code === 'ArrowDown') {
       setCurrentItem((oldVal) =>
         oldVal === props.itemList.length ? oldVal : oldVal + 1
       );
+      event.preventDefault();
     }
   };
 
